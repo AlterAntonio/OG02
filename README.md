@@ -9,5 +9,5 @@
 - *совершить слияние этих веток;*
 - *написать README.*
 
-[Вот смешная собака](https://ru.wikipedia.org/wiki/Markdown)
+[Вот смешная собака](https://img.freepik.com/premium-photo/funny-dog-with-glasses-smiles-top-view_114106-2698.jpg?w=740)
 
